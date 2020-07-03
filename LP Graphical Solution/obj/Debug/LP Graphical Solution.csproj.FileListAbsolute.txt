@@ -1,0 +1,42 @@
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe.config
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.pdb
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csprojResolveAssemblyReference.cache
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Form1.resources
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Properties.Resources.resources
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csproj.GenerateResource.Cache
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.exe
+c:\users\nishi\documents\visual studio 2015\Projects\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.pdb
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csprojAssemblyReference.cache
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Form1.resources
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Properties.Resources.resources
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csproj.GenerateResource.cache
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csproj.CoreCompileInputs.cache
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.exe
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.pdb
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe.config
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe
+C:\Users\Willem Liebenberg\Downloads\LP_Graphical_Solution\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.pdb
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe.config
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.exe
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.pdb
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.pdb
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csprojResolveAssemblyReference.cache
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Form1.resources
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Properties.Resources.resources
+C:\Users\Nishi\Documents\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csproj.GenerateResource.Cache
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe.config
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.pdb
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csprojAssemblyReference.cache
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Form1.resources
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP_Graphical_Solution.Properties.Resources.resources
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csproj.GenerateResource.cache
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.csproj.CoreCompileInputs.cache
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.exe
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.pdb
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.exe.manifest
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\bin\Debug\LP Graphical Solution.application
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.exe.manifest
+C:\Users\Willem Liebenberg\Desktop\LP Graphical Solution\LP Graphical Solution\obj\Debug\LP Graphical Solution.application
